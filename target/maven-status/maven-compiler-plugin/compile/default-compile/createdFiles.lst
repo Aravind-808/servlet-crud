@@ -1,0 +1,7 @@
+com\corent\servlet_crud\userdao.class
+com\corent\servlet_crud\DeleteUserServlet.class
+com\corent\servlet_crud\ListUserServlet.class
+com\corent\servlet_crud\AddUserServlet.class
+com\corent\servlet_crud\User.class
+com\corent\servlet_crud\UpdateUserServlet.class
+com\corent\servlet_crud\dbcon.class
